@@ -46,5 +46,6 @@ return [
         'client_id' => 'edc0fb112d15ba5100f6',
         'client_secret' => '445edd71ce5cd3a1b2d2b206eabd1e605f263504',
         'redirect' => 'http://dartscloud.herokuapp.com/github/callback',
+    ],
 
 ];
