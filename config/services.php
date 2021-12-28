@@ -39,7 +39,7 @@ return [
     'google' => [
         'client_id' => '1062925670136-mrhe18bitfab0en36p9ktffkqn1fm39i.apps.googleusercontent.com',
         'client_secret' => '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',
-        'redirect' => 'http://localhost:8000/google/callback',
+        'redirect' => 'http://dartscloud.herokuapp.com/google/callback',
     ],
 
 ];
