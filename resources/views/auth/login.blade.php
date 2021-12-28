@@ -65,10 +65,24 @@
                             </div>
                         </div>
 
-                        <div class="row mb-0">
+                        <div class="row mb-2">
                             <div class="col-md-12 offset-md-4">
                                 <a href="{{ route('google.login') }}" class="btn btn-secondary">
                                     Login with Google
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row mb-2">
+                            <div class="col-md-12 offset-md-4">
+                                <a href="{{ route('facebook.login') }}" class="btn btn-secondary">
+                                    Login with Facebook
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row mb-0">
+                            <div class="col-md-12 offset-md-4">
+                                <a href="{{ route('github.login') }}" class="btn btn-secondary">
+                                    Login with Github
                                 </a>
                             </div>
                         </div>
